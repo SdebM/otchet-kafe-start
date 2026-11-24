@@ -13,7 +13,7 @@
    :maxdepth: 2
    :caption: Содержание:
 
-   orders
+   
 
 
 * :ref:`genindex`
